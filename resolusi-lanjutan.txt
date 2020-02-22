@@ -2,3 +2,4 @@ Rencana Lanjutan
 - belajar mysql
 * CRUD
 - belajar oraqle
+- belajar cisco
