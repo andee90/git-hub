@@ -1,3 +1,4 @@
 Rencana Lanjutan
 - belajar mysql
+* CRUD
 - belajar oraqle
